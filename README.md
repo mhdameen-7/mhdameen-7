@@ -85,7 +85,7 @@ Here are some of the projects I'm most proud of.
 ### 📬 Get In Touch
 
 <p align="center">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/mhdameen07">
+    <a href="https://linkedin.com/in/mhdameen07">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
